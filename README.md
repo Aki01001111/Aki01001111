@@ -4,9 +4,8 @@
 
 Cursando **Ciência da Computação** no **Centro Universitário Filadélfia (UniFil)**.
 ---
-### 📩 Contato Profissional
-https://www.instagram.com/felipe_hashitani/
-felipe.akio02@gmail.com
+### 🧩 Interesses Pessoais
+*   📚 **Jogos** Mono Gragas Ex-esmeralda no TFT e Platina no Valorant 
 ---
-### Desenvolvedor em Formação | Ciência da Computação na UniFil
-...
+### 📩 Contato Profissional
+felipe.akio02@gmail.com
